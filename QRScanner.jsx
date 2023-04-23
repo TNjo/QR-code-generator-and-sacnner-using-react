@@ -1,4 +1,3 @@
-
 import React, { useState, useRef, useEffect } from 'react';
 import { Button, Card, Col, Input, Row, Typography } from 'antd';
 import QRCode from 'qrcode';
